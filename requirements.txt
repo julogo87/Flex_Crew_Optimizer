@@ -1,0 +1,22 @@
+# Dependencias para Flex Crew Optimizer v1.2-6R
+# ================================================
+
+# Análisis de datos
+pandas>=2.0.0,<3.0.0
+openpyxl>=3.1.0,<4.0.0
+
+# Optimización y grafos
+pulp>=2.7.0,<3.0.0
+networkx>=3.0,<4.0.0
+
+# Las siguientes son parte de la librería estándar de Python (no necesitan instalarse):
+# - datetime
+# - sys
+# - os
+# - io
+# - contextlib
+# - bisect
+# - heapq
+# - itertools
+# - collections
+# - functools
